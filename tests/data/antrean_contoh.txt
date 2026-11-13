@@ -1,0 +1,3 @@
+echo pekerjaan satu
+echo pekerjaan dua
+echo pekerjaan tiga
